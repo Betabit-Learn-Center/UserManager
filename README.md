@@ -4,6 +4,10 @@ Simple API built using ASP.NET Core and MediatR to demonstrate how to easily imp
 
 The example API is very simple, exposing HTTP endpoints through `/api/users` that internally use MediatR to handle requests and responses.
 
+## License
+This app is forked from an original by evgomes, found [here](https://github.com/evgomes/cqrs-mediatr-asp-net-core).
+The original was published under the MIT license. Changes were made so the code is more applicable to Betabit AI-assisted coding trainings.
+
 ## Frameworks and Libraries
 - [ASP.NET 7](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0);
 - [MediatR](https://github.com/jbogard/MediatR) (mediator pattern implementation for .NET);
